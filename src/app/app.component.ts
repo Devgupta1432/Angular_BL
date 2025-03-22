@@ -9,4 +9,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'helloworld-angular';
+  bridgeLabzLogo = 'https://www.bridgelabz.com/assets/images/BridgeLabz%20Brand%20Logo.svg';
 }
